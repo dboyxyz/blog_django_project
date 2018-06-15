@@ -25,7 +25,7 @@ SECRET_KEY = 'tv*c^_=$^oms@l)6$i*7zsze74&*t&m^0499gtwa)py7le0xzq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', 'tt.api.coomaan.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'tt.api.coomaan.com']
 
 
 # Application definition
